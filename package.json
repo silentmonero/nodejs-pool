@@ -37,13 +37,12 @@
     "socketio": "^1.0.0",
     "sprintf-js": "^1.0.3",
     "sticky-cluster": "^0.3.1",
-    "threads_a_gogo": "0.1.13",
     "uuid": "3.0.1",
     "wallet-address-validator": "0.1.0",
     "zmq": "^2.15.3"
   },
   "optionalDependencies": {
     "cryptonote-util": "git://github.com/Snipa22/node-cryptonote-util.git#xmr-Nan-2.0",
-    "multi-hashing": "git+https://github.com/Snipa22/node-multi-hashing-aesni.git"
+    "multi-hashing": "git+https://github.com/Snipa22/node-multi-hashing-aesni.git#libuv"
   }
 }
